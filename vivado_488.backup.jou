@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Apr 21 20:20:58 2024
+# Process ID: 488
+# Current directory: C:/Users/Hammad/Desktop/final-project-main/final task3 -2/task 3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9596 C:\Users\Hammad\Desktop\final-project-main\final task3 -2\task 3\task 3.xpr
+# Log file: C:/Users/Hammad/Desktop/final-project-main/final task3 -2/task 3/vivado.log
+# Journal file: C:/Users/Hammad/Desktop/final-project-main/final task3 -2/task 3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Hammad/Desktop/final-project-main/final task3 -2/task 3/task 3.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source tb.tcl
+close_sim
+launch_simulation
+source tb.tcl
+close_sim
